@@ -1,5 +1,3 @@
-# excel-countif-countifs-sumif-sumifs
-
 # Excel Conditional Functions – COUNTIF, COUNTIFS, SUMIF & SUMIFS
 
 This project contains my practical learning and exercises on Excel conditional functions used for data analysis and reporting.
